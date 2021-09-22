@@ -1,0 +1,11 @@
+Flask==1.1.2
+Flask-Cors==3.0.8
+Flask-Jsonpify==1.5.0
+Flask-JWT-Extended==4.0.0
+flask-marshmallow==0.14.0
+Flask-Migrate==2.5.3
+Flask-MySQL==1.5.1
+Flask-RESTful==0.3.6
+Flask-Script==2.0.6
+Flask-SQLAlchemy==2.3.2
+python-whois==0.7.3
